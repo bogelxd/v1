@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Auther  : Geo Project
+# Auther  : BOGEL STORE
 # (C) Copyright 2023
 # =========================================
 
